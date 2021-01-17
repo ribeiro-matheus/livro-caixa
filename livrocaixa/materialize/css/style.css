@@ -1,0 +1,13 @@
+[type="radio"]:not(:checked), [type="radio"]:checked {
+    position: static;
+    opacity: 1;
+}
+
+.border-imput {
+    background-color: #fff !important;
+}
+
+
+.bold {
+    font-weight: bold;
+}
